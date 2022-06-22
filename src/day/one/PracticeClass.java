@@ -6,7 +6,7 @@ public class PracticeClass {
 		// TODO Auto-generated method stub
 		System.out.println("First Exercise");
 		int x = 5;
-		System.out.println(x);
+		
 
 	}
 
